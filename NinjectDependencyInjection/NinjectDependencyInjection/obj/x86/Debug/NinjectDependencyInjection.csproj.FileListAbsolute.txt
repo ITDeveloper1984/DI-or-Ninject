@@ -1,0 +1,12 @@
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\bin\Debug\NinjectDependencyInjection.exe
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\bin\Debug\NinjectDependencyInjection.pdb
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\bin\Debug\CommonServiceLocator.NinjectAdapter.dll
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\bin\Debug\Ninject.dll
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\bin\Debug\CommonServiceLocator.NinjectAdapter.pdb
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\bin\Debug\Ninject.pdb
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\bin\Debug\Ninject.xml
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\obj\x86\Debug\NinjectDependencyInjection.exe
+c:\documents and settings\azl6db5\my documents\visual studio 2010\Projects\NinjectDependencyInjection\NinjectDependencyInjection\obj\x86\Debug\NinjectDependencyInjection.pdb
+C:\Documents and Settings\azl6db5\My Documents\Personal\Work\Notes and Tutorials\DI or Ninject\NinjectDependencyInjection\NinjectDependencyInjection\obj\x86\Debug\NinjectDependencyInjection.exe
+C:\Documents and Settings\azl6db5\My Documents\Personal\Work\Notes and Tutorials\DI or Ninject\NinjectDependencyInjection\NinjectDependencyInjection\obj\x86\Debug\NinjectDependencyInjection.pdb
